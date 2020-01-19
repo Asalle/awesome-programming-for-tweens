@@ -6,3 +6,5 @@ A curated list of awesome resources for teaching (pre)teens programming.
 * [codepen.io](https://codepen.io/) - Social development environment for front-end designers and developers.
 * [jekyll](https://jekyllrb.com/) - Simple blog generator.
 * [github pages](https://pages.github.com/) - Free website hosting.
+* [w3school](https://www.w3schools.com/html/) - A list of html tags.
+* [HowToMechatronics](https://howtomechatronics.com/tutorials/arduino/arduino-tft-lcd-touch-screen-tutorial/) - Arduino for beginners/intermediate, with games and cool stuff.
